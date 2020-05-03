@@ -2,6 +2,8 @@ package com.nt.test;
 
 public class Test {
 	public void msg() {
+		System.out.println("Test.msg()");
 	System.out.println("hello world");
+	
 	}
 }
